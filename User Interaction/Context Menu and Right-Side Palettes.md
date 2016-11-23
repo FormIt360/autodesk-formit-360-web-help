@@ -9,14 +9,12 @@ The software's user interface makes use of a Context Menu and a Palette.
 
 * To view the context menu, right-click over an object or on empty space. Depending on the selection set, different tools will appear on the contextual menu that will let you edit the selection. 
     
-    | | |
-    | ---- | ---- |
-    | ![](Images/GUID-A91393B3-6AFD-4A36-A766-C15D21C0A4AD-low.png) <br><br>Canvas context menu<br>  |   ![](Images/GUID-7E7240F8-0027-4F01-AD5D-9FE71CACCC10-low.png) <br><br>Solid context menu<br>  |
-    | ![](Images/GUID-F9112937-1DD8-4500-8613-93E9AFB93568-low.png) <br><br>Groups context menu<br>  |   ![](Images/GUID-875CD4E5-E3A3-4F3C-A849-9CE6E26DAEA3-low.png) <br><br>Face context menu<br>  |
+![](Images/GUID-A91393B3-6AFD-4A36-A766-C15D21C0A4AD-low.png) <br><br>Canvas context menu<br>    ![](Images/GUID-7E7240F8-0027-4F01-AD5D-9FE71CACCC10-low.png) <br><br>Solid context menu<br>  
+![](Images/GUID-F9112937-1DD8-4500-8613-93E9AFB93568-low.png) <br><br>Groups context menu<br>     ![](Images/GUID-875CD4E5-E3A3-4F3C-A849-9CE6E26DAEA3-low.png) <br><br>Face context menu<br>  
 
 ## Palettes
 
-* | | |
+| | |
     | ---- | ---- |
     | Click on the palette handle to reveal, or to hide the Properties Palette. Use the Properties Tab to manage an object's name, level settings, layer setting and view information about area and volume of the selected object.   |   ![](Images/GUID-A061E419-F183-4D8C-9265-A9F400EC7E93-low.png)   |
     | Use the Material Tab to create, edit, and apply materials to objects.   |   ![](Images/GUID-D8DB2F73-E1FF-40C0-9C43-9A8B69136EE4-low.png)   |
