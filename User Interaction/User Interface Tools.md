@@ -37,7 +37,7 @@ Reference for command interaction tools.
 * ![](Images/GUID-C718BBE1-F84C-4C9A-8E1B-C6A3713C3618-low.png)Share Your Work: Export your model into different formats.
 * ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png) Obtain access to Solar Analysis, Energy Analysis, and Collaboration features
 * ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png)Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
-* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)Help: Use the information tools to learn more about FormIt 360.
+* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)Help: Use the information tools to learn more about FormIt.
 
 ## Palette Bar
 
@@ -45,5 +45,5 @@ The Palette Bar appears on the right side of the screen. Click one of these icon
 
 | | |
 | ---- | ---- |
-| ![](Images/GUID-39317707-97A9-46F2-B8A4-76115959890F-low.png)   |   <br>*Properties*: Open this palette to view location, gross area, and floor area ratios for your sketch<br><br>*Materials*: Use this palette to create or apply materials<br><br>*Layers*: Create and Manage Layers and assign selected objects to different Layers<br><br>*Scenes*: Create, manage and play Scenes<br><br>*Levels*: Use this palette to display and add levels to your building objects<br><br>*Content Library*: Use the content library to store reusable content such as furniture<br><br>*Collaboration* (FormIt 360 Pro only): Use Collaboration to work simultaneously with others as you create designs<br>  |
+| ![](Images/GUID-39317707-97A9-46F2-B8A4-76115959890F-low.png)   |   <br>*Properties*: Open this palette to view location, gross area, and floor area ratios for your sketch<br><br>*Materials*: Use this palette to create or apply materials<br><br>*Layers*: Create and Manage Layers and assign selected objects to different Layers<br><br>*Scenes*: Create, manage and play Scenes<br><br>*Levels*: Use this palette to display and add levels to your building objects<br><br>*Content Library*: Use the content library to store reusable content such as furniture<br><br>*Collaboration* (FormIt Pro only): Use Collaboration to work simultaneously with others as you create designs<br>  |
 
