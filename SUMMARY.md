@@ -31,7 +31,7 @@
   * [Work Planes](Modify Designs/Work Planes.md)
   * [Snaps and Inferences](Modify Designs/Snaps and Inferences.md)
   * [About Smart Selection](Modify Designs/About Smart Selection.md)
-  * [Modify: Select Edge\/Face or Object](Modify Designs/Modify Select Edge-Face or Object.md)
+  * [Modify: Select Edge, Face or Object](Modify Designs/Modify Select Edge-Face or Object.md)
   * [Modify: Delete, Edit, Move](Modify Designs/Modify Delete, Edit, Move.md)
   * [Modify: Cover, Sweep, Loft](Modify Designs/Modify Cover, Sweep, Loft.md)
   * [Examine Object Properties](Modify Designs/Examine Object Properties.md)
