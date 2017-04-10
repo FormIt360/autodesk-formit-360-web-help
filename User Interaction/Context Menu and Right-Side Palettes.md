@@ -13,8 +13,8 @@
 | | |
     | ---- | ---- |
     | Use the Properties tab to manage an object's name, Levels, Layers, and to view information about area and volume of the selected object.   |   ![](Images/GUID-A061E419-F183-4D8C-9265-A9F400EC7E93-low.png)   |
-    | Use the Materials ab to create, edit, and apply materials to objects.   |   ![](Images/GUID-D8DB2F73-E1FF-40C0-9C43-9A8B69136EE4-low.png)   |
-    | Use the Levels tab to create and edit the levels in your sketch - but not to set levels on an element, that is done in the Properties tab   |   ![](Images/GUID-875750E4-17E6-4057-B231-BD776223CEAE-low.png)   |
+    | Use the Materials tab to create, edit, and apply materials to objects.   |   ![](Images/GUID-D8DB2F73-E1FF-40C0-9C43-9A8B69136EE4-low.png)   |
+    | Use the Levels tab to create and edit the levels in your sketch. You can set Levels on a selected object by switching to the Properties tab.   |   ![](Images/GUID-875750E4-17E6-4057-B231-BD776223CEAE-low.png)   |
     | <br>Use the Content Library to link a Library from your local computer, or from A360 Drive. Then you can drag and drop content from the library into your FormIt 360 sketch.<br>  |   ![](Images/GUID-28DCD782-6555-40C0-9558-8CC096B5930C-low.png)   |
     | Use Collaboration to work simultaneously with others as you create designs.   |   ![](Images/GUID-E17BEBE7-6486-4302-BCE6-211C601AEAC6-low.png)   |
     | Use the Layers palette to create and modify layers. You can also add currently selected object(s) to a specific layer.   |   ![](Images/GUID-9E95DA19-0C90-47FD-B4E4-39716C331640-low.png)   |
