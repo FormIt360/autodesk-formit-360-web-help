@@ -1,27 +1,16 @@
 # User Interface Tools
 
-----
-
-Reference for command interaction tools.
-
-## Information Area
-
-* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png) Save the Sketch: Click to save the current sketch, or open a new sketch.
-* ![](Images/GUID-5B0627B2-BA61-45D0-89CC-7B2A47E34A87-low.png)Set the name: Click to change the name of your sketch.
-* ![](Images/GUID-850FD972-B1C0-4755-AB04-ED8CC0076754-low.png)Undo and Redo: Click to undo or redo recent actions.
-* *Navigation Bar* 
-    
-    | | |
-    | ---- | ---- |
-    | ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png)   |  *Top View*: Go to orthogonal view looking down <br><br>*3D View*: Go back to the default 3D perspective view<br><br>*Jet Pack*: Go to a walkthrough view using traditional gaming controls. W - forward, S - Back, A - Left, D - Right, Q - Up, F - Down, Space Bar launches you into the air<br><br>*Select*: Puts you back into Select mode<br><br>*Orbit*<br><br>*Pan*<br><br>*Zoom*<br><br>*Zoom to Fit*<br>  |
-
-## The Action Bar
+## The Main Toolbar
 
 * The action bar is found at the top of your screen. The tools in the action bar will help you create, edit, and share content. 
     
     ![](Images/GUID-20BA4556-7083-4058-8F81-FAB82111F189-low.png)
 
 * User Identity, Help Bar ![](Images/GUID-5957B173-1265-4968-8310-ADC319ED2012-low.png)
+
+* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png) Menu: access a variety of file-related operations
+* ![](Images/GUID-5B0627B2-BA61-45D0-89CC-7B2A47E34A87-low.png)Set the name: Click to change the name of your sketch.
+* ![](Images/GUID-850FD972-B1C0-4755-AB04-ED8CC0076754-low.png)Undo and Redo: Click to undo or redo recent actions.
 
 * ![](Images/GUID-F3BAC481-B10C-4CA3-B638-C2BF842C0209-low.png) Selection Filter: Click to choose options for filtering out object types from the selection tool
 * ![](Images/GUID-CB5D154A-CF6B-43A2-8BB5-77218F594BBD-low.png)Measure Tools: Click to choose a linear or angular measure tool
@@ -38,6 +27,14 @@ Reference for command interaction tools.
 * ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png) Obtain access to Solar Analysis, Energy Analysis, and Collaboration features
 * ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png)Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
 * ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)Help: Use the information tools to learn more about FormIt.
+
+## Floating Navigation Toolbar 
+    
+    | | |
+    | ---- | ---- |
+    | ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png)   |  *Top View*: Go to orthogonal view looking down <br><br>*3D View*: Go back to the default 3D perspective view<br><br>*Jet Pack*: Go to a walkthrough view using traditional gaming controls. W - forward, S - Back, A - Left, D - Right, Q - Up, F - Down, Space Bar launches you into the air<br><br>*Select*: Puts you back into Select mode<br><br>*Orbit*<br><br>*Pan*<br><br>*Zoom*<br><br>*Zoom to Fit*<br>  |
+
+
 
 ## Palette Bar
 
