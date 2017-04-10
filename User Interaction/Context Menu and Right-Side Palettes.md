@@ -3,8 +3,10 @@
 
 * To view the context menu, right-click over an object or on empty space. Depending on the selection set, different tools will appear in the contextual menu that will let you modify the selection. 
     
-![](Images/GUID-A91393B3-6AFD-4A36-A766-C15D21C0A4AD-low.png) <br><br>Canvas context menu<br>    ![](Images/GUID-7E7240F8-0027-4F01-AD5D-9FE71CACCC10-low.png) <br><br>Solid context menu<br>  
-![](Images/GUID-F9112937-1DD8-4500-8613-93E9AFB93568-low.png) <br><br>Groups context menu<br>     ![](Images/GUID-875CD4E5-E3A3-4F3C-A849-9CE6E26DAEA3-low.png) <br><br>Face context menu<br>  
+![](Images/GUID-A91393B3-6AFD-4A36-A766-C15D21C0A4AD-low.png) <br>Canvas context menu<br> 
+![](Images/GUID-7E7240F8-0027-4F01-AD5D-9FE71CACCC10-low.png) <br>Solid context menu<br>  
+![](Images/GUID-F9112937-1DD8-4500-8613-93E9AFB93568-low.png) <br>Groups context menu<br>     
+![](Images/GUID-875CD4E5-E3A3-4F3C-A849-9CE6E26DAEA3-low.png) <br>Face context menu<br>  
 
 ## Palettes
 
