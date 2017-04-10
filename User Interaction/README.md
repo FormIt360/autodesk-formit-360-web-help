@@ -1,12 +1,6 @@
 # User Interaction
 
----
 
-Locate the tools to create and place designs.
-
-The software's user interface makes use of a particular platform's standard interaction model.
-
-* The key components of the FormIt interface \(see [Navigation Tools](../Navigation Tools.md) for tips about interacting with the FormIt software\):
 
   ![](Images/GUID-8E20A1F0-773E-4AAC-A31E-B37BF8314086-low.png)
 
