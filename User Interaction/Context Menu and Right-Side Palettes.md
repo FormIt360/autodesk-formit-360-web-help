@@ -12,10 +12,10 @@
 
 | | |
     | ---- | ---- |
-    | Use the Properties tab to manage an object's name, Levels, Layers, and to view information about area and volume of the selected object.   |   ![](Images/GUID-A061E419-F183-4D8C-9265-A9F400EC7E93-low.png)   |
-    | Use the Materials tab to create, edit, and apply materials to objects.   |   ![](Images/GUID-D8DB2F73-E1FF-40C0-9C43-9A8B69136EE4-low.png)   |
-    | Use the Levels tab to create and edit the levels in your sketch. You can set Levels on a selected object by switching to the Properties tab.   |   ![](Images/GUID-875750E4-17E6-4057-B231-BD776223CEAE-low.png)   |
-    | <br>Use the Content Library to link a Library from your local computer, or from A360 Drive. Then you can drag and drop content from the library into your FormIt 360 sketch.<br>  |   ![](Images/GUID-28DCD782-6555-40C0-9558-8CC096B5930C-low.png)   |
-    | Use Collaboration to work simultaneously with others as you create designs.   |   ![](Images/GUID-E17BEBE7-6486-4302-BCE6-211C601AEAC6-low.png)   |
-    | Use the Layers palette to create and modify layers. You can also add currently selected object(s) to a specific layer.   |   ![](Images/GUID-9E95DA19-0C90-47FD-B4E4-39716C331640-low.png)   |
-    | Use the Scenes palette to create and modify scenes. Press play to cycle through all of the scenes in the current file in order.   |   ![](Images/GUID-5FB0624F-EA3A-46B2-A01E-A1C35A19C76F-low.png)   |
+    | Use the Properties palette to manage an object's name, Levels, Layers, and to view information about area and volume of the selected object.   |   ![](Images/GUID-A061E419-F183-4D8C-9265-A9F400EC7E93-low.png)   |
+    | Use the Materials palette to create, edit, and apply Materials to objects.   |   ![](Images/GUID-D8DB2F73-E1FF-40C0-9C43-9A8B69136EE4-low.png)   |
+    | Use the Levels palette to create and edit the Levels in your sketch. You can set Levels on a selected object by switching to the Properties tab.   |   ![](Images/GUID-875750E4-17E6-4057-B231-BD776223CEAE-low.png)   |
+    | <br>Use the Content Library palette to link a library from your local computer, or from A360 Drive. Then you can drag and drop content from the library into your FormIt sketch.<br>  |   ![](Images/GUID-28DCD782-6555-40C0-9558-8CC096B5930C-low.png)   |
+    | Use the Collaboration palette to work simultaneously with others as you create designs.   |   ![](Images/GUID-E17BEBE7-6486-4302-BCE6-211C601AEAC6-low.png)   |
+    | Use the Layers palette to create and modify Layers. You can assign selected object(s) to a specific Layer to toggle their visibility.   |   ![](Images/GUID-9E95DA19-0C90-47FD-B4E4-39716C331640-low.png)   |
+    | Use the Scenes palette to create and modify Scenes. Press play to see an animation through all of the scenes in their current order. Each Scene contains options that, when checked, will be stored and remembered when that Scene is active.   |   ![](Images/GUID-5FB0624F-EA3A-46B2-A01E-A1C35A19C76F-low.png)   |
