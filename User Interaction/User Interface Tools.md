@@ -2,22 +2,19 @@
 
 ## The Main Toolbar
 
-* The action bar is found at the top of your screen. The tools in the action bar will help you create, edit, and share content. 
+* The main toolbar is at the top of the screen and contains tools to assist in creating, editing, and sharing content.
     
     ![](Images/GUID-20BA4556-7083-4058-8F81-FAB82111F189-low.png)
 
-* User Identity, Help Bar ![](Images/GUID-5957B173-1265-4968-8310-ADC319ED2012-low.png)
-
-* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png) Menu: access a variety of file-related operations
-* ![](Images/GUID-5B0627B2-BA61-45D0-89CC-7B2A47E34A87-low.png)Set the name: Click to change the name of your sketch.
-* ![](Images/GUID-850FD972-B1C0-4755-AB04-ED8CC0076754-low.png)Undo and Redo: Click to undo or redo recent actions.
-
-* ![](Images/GUID-F3BAC481-B10C-4CA3-B638-C2BF842C0209-low.png) Selection Filter: Click to choose options for filtering out object types from the selection tool
-* ![](Images/GUID-CB5D154A-CF6B-43A2-8BB5-77218F594BBD-low.png)Measure Tools: Click to choose a linear or angular measure tool
-* ![](Images/GUID-5436C5D2-1662-4F0D-ACC6-4CAB5CF30E83-low.png)Sketch Tools: Click to bring up a menu of creation tools that will help you draw shapes.
-* ![](Images/GUID-CF6A4EA8-13E8-4BFA-B0FA-76B01F51B364-low.png)Primitives: Click to bring up a menu of basic 3D shapes that you can place in your scene.
-* ![](Images/GUID-E44FD1BC-52E8-4515-B7DB-2697AF5F66A8-low.png)Advanced Tools: Click to use Boolean cut or join, cover, sweep, or loft operations.
-* ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png)Groups: Click to locate tools for grouping objects.
+* ![](Images/GUID-04A6C825-C1EB-4092-BEF6-9C20E9428677-low.png) Menu: access a variety of file-related operations such as Open, Save, Import, Export.
+* ![](Images/GUID-5B0627B2-BA61-45D0-89CC-7B2A47E34A87-low.png) Sketch Name: Click to rename the sketch.
+* ![](Images/GUID-850FD972-B1C0-4755-AB04-ED8CC0076754-low.png) Undo and Redo: Click to undo or redo recent actions. Undo and Redo is per-Group.
+* ![](Images/GUID-F3BAC481-B10C-4CA3-B638-C2BF842C0209-low.png) Selection Filter: Click to choose options for filtering out object types when using area select (click and drag with Select tool).
+* ![](Images/GUID-CB5D154A-CF6B-43A2-8BB5-77218F594BBD-low.png)Measure Tools: Click to choose between Linear and Angular Measure tools.
+* ![](Images/GUID-5436C5D2-1662-4F0D-ACC6-4CAB5CF30E83-low.png) Sketch Tools: Click to choose from various Sketch tools such as Line, Arc, Spline, Rectangle, and Circle.
+* ![](Images/GUID-CF6A4EA8-13E8-4BFA-B0FA-76B01F51B364-low.png) Primitives: Click to choose from various 3D shapes such as Cube, Dome, Pyramid, Cylinder, Roof.
+* ![](Images/GUID-E44FD1BC-52E8-4515-B7DB-2697AF5F66A8-low.png) Advanced Tools: Click to choose from advanced tools such as Boolean Join and Cut, Sweep, Cover, Loft, 3D Offset, 3D Shell, and Fillet.
+* ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png)Groups: Click to choose from Group tools such as Create, Edit, Make Unique, Ungroup, Ungroup All, and Flatten.
 * ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png) Sun and Shadows: Use this tool to change the date and time of day to study shadows on your model. For more info on sun and shadows, see [Sun and Shadow Settings](../../Building Performance/Sun and Shadow Settings.md). Launch Solar Analysis from within this panel.
 * ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png)Settings: Set application and sketch settings along with visual style and perform model diagnostics.
 * ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png)Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch.
