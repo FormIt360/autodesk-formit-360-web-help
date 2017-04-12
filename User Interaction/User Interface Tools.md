@@ -14,20 +14,20 @@
 * ![](Images/GUID-5436C5D2-1662-4F0D-ACC6-4CAB5CF30E83-low.png) Sketch Tools: Click to choose from various Sketch tools such as Line, Arc, Spline, Rectangle, and Circle.
 * ![](Images/GUID-CF6A4EA8-13E8-4BFA-B0FA-76B01F51B364-low.png) Primitives: Click to choose from various 3D shapes such as Cube, Dome, Pyramid, Cylinder, Roof.
 * ![](Images/GUID-E44FD1BC-52E8-4515-B7DB-2697AF5F66A8-low.png) Advanced Tools: Click to choose from advanced tools such as Boolean Join and Cut, Sweep, Cover, Loft, 3D Offset, 3D Shell, and Fillet.
-* ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png)Groups: Click to choose from Group tools such as Create, Edit, Make Unique, Ungroup, Ungroup All, and Flatten.
+* ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png) Groups: Click to choose from Group tools such as Create, Edit, Make Unique, Ungroup, Ungroup All, and Flatten.
 * ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png) Sun and Shadows: Use this tool to change the date and time of day to study shadows on your model. For more information on sun and shadows, see [Sun and Shadow Settings](../../Building Performance/Sun and Shadow Settings.md). You may also launch Solar Analysis from within this panel.
-* ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png)Settings: Click to set application and sketch settings, such as snapping, editable dimensions, selection and context visibility, and units.
-* ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png)Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch, see [Location](../../Location.md).
-* ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)Energy Analysis: Click to perform calculations on a building to determine its energy use using Autodesk Insight.
+* ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png) Settings: Click to set application and sketch settings, such as snapping, editable dimensions, selection and context visibility, and units.
+* ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png) Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch, see [Location](../../Location.md).
+* ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png) Energy Analysis: Click to perform calculations on a building to determine its energy use using Autodesk Insight.
 * ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png) Go Pro! Click to gain access to Solar Analysis, Energy Analysis, and Collaboration features.
-* ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png)Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
-* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)Help: Click to find out what FormIt is about, what's new in this release, and get access to forums, galleries, videos, and learn application shortcuts.
+* ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png) Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
+* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png) Help: Click to find out what FormIt is about, what's new in this release, and get access to forums, galleries, videos, and learn application shortcuts.
 
 ## Floating Navigation Toolbar 
     
     | | |
     | ---- | ---- |
-    | ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png)   |  *Top View*: Go to orthogonal view looking down <br><br>*3D View*: Go back to the default 3D perspective view<br><br>*Jet Pack*: Go to a walkthrough view using traditional gaming controls. W - forward, S - Back, A - Left, D - Right, Q - Up, F - Down, Space Bar launches you into the air<br><br>*Select*: Puts you back into Select mode<br><br>*Orbit*<br><br>*Pan*<br><br>*Zoom*<br><br>*Zoom to Fit*<br>  |
+    | ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png)   |  *Top View*: Go to orthogonal view looking down <br><br>*3D View*: Go to the default 3D perspective view<br><br>*Jet Pack*: Walk through your model using gaming-inspired controls: W/A/S/D to move around, SPACE to fly, Q/E/F to move up/down/fall to ground, SCROLL while moving to adjust speed, ESC to exit<br><br>*Select*: Puts you back into Select mode<br><br>*Orbit*<br><br>*Pan*<br><br>*Zoom*<br><br>*Zoom to Fit*<br>  |
 
 
 
