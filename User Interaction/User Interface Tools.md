@@ -1,6 +1,6 @@
 # User Interface Tools
 
-## The Main Toolbar
+## Main Toolbar
 
 * The main toolbar is at the top of the screen and contains tools to assist in creating, editing, and sharing content.
     
