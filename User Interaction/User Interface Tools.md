@@ -15,15 +15,13 @@
 * ![](Images/GUID-CF6A4EA8-13E8-4BFA-B0FA-76B01F51B364-low.png) Primitives: Click to choose from various 3D shapes such as Cube, Dome, Pyramid, Cylinder, Roof.
 * ![](Images/GUID-E44FD1BC-52E8-4515-B7DB-2697AF5F66A8-low.png) Advanced Tools: Click to choose from advanced tools such as Boolean Join and Cut, Sweep, Cover, Loft, 3D Offset, 3D Shell, and Fillet.
 * ![](Images/GUID-703E56FE-819D-4A29-B086-301B024C60E1-low.png)Groups: Click to choose from Group tools such as Create, Edit, Make Unique, Ungroup, Ungroup All, and Flatten.
-* ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png) Sun and Shadows: Use this tool to change the date and time of day to study shadows on your model. For more info on sun and shadows, see [Sun and Shadow Settings](../../Building Performance/Sun and Shadow Settings.md). Launch Solar Analysis from within this panel.
-* ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png)Settings: Set application and sketch settings along with visual style and perform model diagnostics.
-* ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png)Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch.
-* ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)Energy Analysis: Click tp perform calculations on a building to determine its energy use.
-* ![](Images/GUID-69E97DB2-B47E-4DC7-B01B-EACFE2FE9F01-low.png)Import Images and Models: Use this tool to add images and models you created with other programs.
-* ![](Images/GUID-C718BBE1-F84C-4C9A-8E1B-C6A3713C3618-low.png)Share Your Work: Export your model into different formats.
-* ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png) Obtain access to Solar Analysis, Energy Analysis, and Collaboration features
+* ![](Images/GUID-6F10FAB3-B960-418F-88DC-17E12E352986-low.png) Sun and Shadows: Use this tool to change the date and time of day to study shadows on your model. For more information on sun and shadows, see [Sun and Shadow Settings](../../Building Performance/Sun and Shadow Settings.md). You may also launch Solar Analysis from within this panel.
+* ![](Images/GUID-F12CB419-C270-4B9C-B3C9-5E5B4099B168-low.png)Settings: Click to set application and sketch settings, such as snapping, editable dimensions, selection and context visibility, and units.
+* ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png)Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch, see [Location](../../Location.md).
+* ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png)Energy Analysis: Click to perform calculations on a building to determine its energy use using Autodesk Insight.
+* ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png) Go Pro! Click to gain access to Solar Analysis, Energy Analysis, and Collaboration features.
 * ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png)Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
-* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)Help: Use the information tools to learn more about FormIt.
+* ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png)Help: Click to find out what FormIt is about, what's new in this release, and get access to forums, galleries, videos, and learn application shortcuts.
 
 ## Floating Navigation Toolbar 
     
