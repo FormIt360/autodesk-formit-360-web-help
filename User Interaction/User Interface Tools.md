@@ -20,7 +20,7 @@
 * ![](Images/GUID-7EC051BA-7A0E-4049-A3D9-7860ECD98C86-low.png) Search for a location and import satellite imagery into your sketch. For more information on setting the location of your sketch, see [Location](../../Location.md).
 * ![](Images/GUID-4B5571DF-D3B2-4693-85FF-5BED468431BB-low.png) Energy Analysis: Click to perform calculations on a building to determine its energy use using Autodesk Insight.
 * ![](Images/GUID-C3E5ACB7-C969-4959-8978-3F9A9A2C4588-low.png) Go Pro! Click to gain access to Solar Analysis, Energy Analysis, and Collaboration features.
-* ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png) Login to Autodesk 360: Use the Autodesk 360 Cloud Services for FREE to store and share your sketches.
+* ![](Images/GUID-1272E029-F99F-4F39-9571-8F3D0CE8FEF0-low.png) Log in to Autodesk 360: Use the Autodesk 360 cloud services for free to store and share your sketches.
 * ![](Images/GUID-E5EC9B4D-7C13-44B7-ADBD-06798BE89B44-low.png) Help: Click to find out what FormIt is about, what's new in this release, and get access to forums, galleries, videos, and learn application shortcuts.
 
 ## Floating Navigation Toolbar 
@@ -33,7 +33,7 @@
 
 ## Palette Bar
 
-The Palette Bar appears on the right side of the screen. Click one of these icons to open a side palette to display building properties, materials, a content library, and collaboration tools.
+The Palette Bar appears on the right side of the screen. Click one of these icons to open a side palette to display Properties, Layers, Scenes, Levels, Content Library, and Collaboration.
 
 | | |
 | ---- | ---- |
