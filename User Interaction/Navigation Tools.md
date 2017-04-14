@@ -1,16 +1,10 @@
 # Navigation Tools
 
----
-
-Use these movements to engage the user interface.
-
-Key tools for moving around the design area.
-
 ### View Modes
 
-| Top View | View your project from a top view. You cannot orbit when in this view, but pan and zoom work normally. This view is especially useful when sketching floor plans over an imported sketch, or satellite image. |
+| Top View | View your project from a top orthogonal view. This view is especially useful when sketching floor plans over an imported sketch, or satellite image. |
 | --- | --- |
-| 3D View | This is the perspective view that FormIt starts in. You can orbit, pan, and zoom to view and edit your model. |
+| 3D View | This is the perspective view that FormIt starts in. You can orbit, pan, and zoom to view and edit your model from a variety of angles. |
 | Fly-Through Mode | Enter a First person perspective mode at ground level. Your editing tools are disabled, but you can walk or fly-through your model using your keyboard and space bar. When you exit this mode using the esc key, you return to 3D View mode, your point of view is maintained. |
 
 ### Navigating the View
