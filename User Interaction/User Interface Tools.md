@@ -25,10 +25,9 @@
 
 ## Floating Navigation Toolbar 
     
-    | | |
-    | ---- | ---- |
-    | ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png)   |  *Top View*: Go to a top-down orthogonal view<br><br>*3D View*: Go to the default 3D perspective view<br><br>*Jet Pack*: Walk through your model using gaming-inspired controls: W/A/S/D to move around, SPACE to fly, Q/E/F to move up/down/fall to ground, SCROLL while moving to adjust speed, ESC to exit<br><br>*Select*: Puts you back into Select mode<br><br>*Orbit*: Orbits around using your cursor or selection as the center of rotation<br><br>*Swivel*: Looks around the model by using the current position as the center point<br><br>*Pan*: Drags the view parallel to the screen<br><br>*Zoom*: Zooms in or out with cursor movement<br><br>*Zoom All*: Zooms out to capture the extents of the sketch <br><br>*Zoom Selected*: Zooms to capture the extents of the geometry in selection<br>  |
-
+ | | |
+| ---- | ---- |
+| ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png) | *Top View*: Go to a top-down orthogonal view<br><br>*3D View*: Go to the default 3D perspective view<br><br>*Fly Through*: Walk around your model using gaming-inspired controls: W/A/S/D to move around, SPACE to fly, Q/E/F to move up/down/fall to ground, SCROLL while moving to adjust speed, ESC to exit<br><br>----------<br><br>*Orbit*: Orbits around using your cursor or selection as the center of rotation. You can also right-click and drag at any time to Orbit.<br><br>*Swivel*: Looks around the model by using the current position as the center point. You can also hold Ctrl while right-click and dragging to Swivel. <br><br>*Pan*: Drags the view parallel to the screen. You can also hold the middle mouse button, or Shift while right-click and dragging to Pan.<br><br>----------<br><br>*Zoom*: Zooms in or out with cursor movement<br><br>*Zoom All*: Zooms out to capture the extents of the sketch <br><br>*Zoom Selected*: Zooms to capture the extents of the geometry in selection<br> |
 
 
 ## Palette Bar

@@ -1,18 +1,11 @@
 # Navigation Tools
 
-### View Modes
+## Floating Navigation Toolbar 
+    
+| | |
+| ---- | ---- |
+| ![](Images/GUID-67C6ED8B-13C8-4166-B54D-39616A8F3CB5-low.png) | *Top View*: Go to a top-down orthogonal view<br><br>*3D View*: Go to the default 3D perspective view<br><br>*Fly Through*: Walk around your model using gaming-inspired controls: W/A/S/D to move around, SPACE to fly, Q/E/F to move up/down/fall to ground, SCROLL while moving to adjust speed, ESC to exit<br><br>----------<br><br>*Orbit*: Orbits around using your cursor or selection as the center of rotation. You can also right-click and drag at any time to Orbit.<br><br>*Swivel*: Looks around the model by using the current position as the center point. You can also hold Ctrl while right-click and dragging to Swivel. <br><br>*Pan*: Drags the view parallel to the screen. You can also hold the middle mouse button, or Shift while right-click and dragging to Pan.<br><br>----------<br><br>*Zoom*: Zooms in or out with cursor movement<br><br>*Zoom All*: Zooms out to capture the extents of the sketch <br><br>*Zoom Selected*: Zooms to capture the extents of the geometry in selection<br> |
 
-| Top View | View your project from a top orthogonal view. This view is especially useful when sketching floor plans over an imported sketch, or satellite image. |
-| --- | --- |
-| 3D View | This is the perspective view that FormIt starts in. You can orbit, pan, and zoom to view and edit your model from a variety of angles. |
-| Fly-Through Mode | Enter a First person perspective mode at ground level. Your editing tools are disabled, but you can walk or fly-through your model using your keyboard and space bar. When you exit this mode using the esc key, you return to 3D View mode, your point of view is maintained. |
-
-### Navigating the View
-
-| Pan | Middle mouse button press and drag |  |
-| --- | --- | --- |
-| Orbit | Mouse right-click and drag |  |
-| Zoom in and out | Middle mouse scroll wheel |  |
 
 ### Create Geometry Gestures
 
