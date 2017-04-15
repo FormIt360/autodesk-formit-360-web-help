@@ -9,7 +9,7 @@
 
 ### Create Geometry Gestures
 
-| Copy and Paste | Select object, Ctrl + C to copy, Ctrl + V or Ctrl + Shift + V to Paste or Paste in Place  | ![](Images/GUID-259ECCFB-1E73-4F8D-841F-E9DBBCCA2703-low.png) |
+| Copy and Paste | Select an object, Ctrl + C to copy, Ctrl + V to paste or Ctrl + Shift + V to paste in place  | ![](Images/GUID-259ECCFB-1E73-4F8D-841F-E9DBBCCA2703-low.png) |
 | --- |
 | Quick Copy and Paste | Select an object, click on the object to define the start point, start moving the object, then tap Ctrl to create a quick copy. | ![](Images/GUID-480B99B0-30BB-47AD-A5A5-00489289F5B5-low.png) |
 | Draw 2D Shapes | Click on the line, arc, spline, circle, or rectangle tool, then click in canvas to draw. | ![](Images/GUID-480B99B0-30BB-47AD-A5A5-00489289F5B5-low.png) |
