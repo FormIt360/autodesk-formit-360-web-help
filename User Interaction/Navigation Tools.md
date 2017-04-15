@@ -14,7 +14,7 @@
 | Quick Copy and Paste | Select an object, click on the object to define the start point, start moving the object, then tap Ctrl to create a quick copy. | ![](Images/quick_copy.png) |
 | Draw 2D Shapes | Click on the line, arc, spline, circle, or rectangle tool, then click in canvas to draw. | ![](Images/GUID-480B99B0-30BB-47AD-A5A5-00489289F5B5-low.png) |
 | Place a Primitive | Click on the Primitive menu from the Main Toolbar, then click in the canvas to place a Primitive. | ![](Images/GUID-853590B0-9195-466B-AFBF-C4A8332DAEEC-low.png) |
-| Extrude Shapes | Click to select a face, then click and drag your mouse - click again to finish extruding a face. | ![](Images/GUID-CAF089B7-8EA3-4ECD-B5F6-A6737FAA26F4-low.png) |
+| Extrude Shapes | Click to select a face, then move your mouse perpendicular to the face. Click again to finish extruding a face. | ![](Images/GUID-CAF089B7-8EA3-4ECD-B5F6-A6737FAA26F4-low.png) |
 
 
 
