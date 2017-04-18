@@ -1,12 +1,5 @@
 # Import a Satellite Image
 
-Add detail and realism to your design.
- 
-
-Satellite images and weather station data add important information to your designs.
-
-#### Import Satellite Image
-
 1. Click on the Location icon from the action tool bar.
 2. Search for a specific location or use the map view to pan and zoom to set a location.
 3. Click to place the red pin after you have found your location.

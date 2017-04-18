@@ -1,16 +1,10 @@
 # Set a Location
 
-Click the Location icon ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png)  from the action bar. You can either search for a specific location or use the map to browse for a location. 
+Click the Location icon ![](Images/GUID-45268F36-37CA-468C-B326-9DB28FFA5534-low.png)  from the main toolbar. You can either search for a specific location or use the map to browse for a location. 
     
-You can optionally move the red pin to another location on the map.
+You can also move the red pin to another location on the map. When ready, click 'Set Location only.'
+
+![](Images/GUID-72455568-7551-4B79-90D7-19A6554419EA-low.png)
+
+This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen [import the satellite image](../../Location/Import a Satellite Image.md).
     
-After you have found your location, make sure you have placed the red pin. Then click the 'Import Satellite Image' button to add the aerial photo to your sketch for reference, model scale, and true north.
-    
-After searching for the project location, you can optionally:
-    
-* Click the 'Import Satellite Image' button to add the aerial photo to your sketch for reference, model scale, and true north.
-* Click Finish Importing to set the location and add the location's satellite image to your drawing area.
-* Click any of the nearby Weather Stations to review the local historic climate data.
-* Click Finish. 
-        
-This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen to import the satellite image.
