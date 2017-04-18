@@ -1,7 +1,5 @@
 # Import 3D Models and Images
 
-----
-
 Add overlays and images to your designs for a variety of purposes.
  
 

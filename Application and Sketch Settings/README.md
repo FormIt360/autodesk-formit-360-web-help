@@ -1,7 +1,5 @@
 # Application and Sketch Settings
 
----
-
 Modify application-wide and sketch-specific settings to change how the app and individual sketches appear and behave.
 
 * Modify application-wide settings to change how the entire FormIt app appears and behaves.

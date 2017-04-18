@@ -1,7 +1,5 @@
 # Joining a Session
 
-----
-
 Become part of a collaboration.
  
 

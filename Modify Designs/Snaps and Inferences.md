@@ -1,7 +1,5 @@
 # Snaps and Inferences
 
-----
-
 Use these built-in capabilities to create more accurate designs.
  
 NoteSee[Keyboard Shortcuts](../../User Interaction/Keyboard Shortcuts.md) for information about how to speed up your use of the software's tools.

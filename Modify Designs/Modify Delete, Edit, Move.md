@@ -1,7 +1,5 @@
 # Modify: Delete, Edit, Move
 
-----
-
 Remove an object, change its location, or modify its properties.
 
 1. ![](Images/GUID-4C5500A4-7879-4337-BA56-A84CA0CAB32E-low.png) To delete geometry, you must first make a geometry selection. Then, right-click to see the context menu where you can click on the delete icon. You can also press the delete key on your keyboard.

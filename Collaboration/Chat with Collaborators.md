@@ -1,7 +1,5 @@
 # Chat with Collaborators
 
-----
-
 Engage in dialog as you design.
  
 

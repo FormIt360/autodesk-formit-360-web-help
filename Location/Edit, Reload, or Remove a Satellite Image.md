@@ -1,7 +1,5 @@
 # Edit, Reload, or Remove a Satellite Image
 
-----
-
 Make changes to your location images.
 
 ## Working with Satellite Images

@@ -1,7 +1,5 @@
 # Creating Designs
 
-----
-
 Sketch or place geometric shapes onto grid backgrounds, satellite images, or overlays.
  
 * Create conceptual models using 2D and 3D geometry creation tools. Start off by sketching 2D shapes or placing 3D primitives. Then, you can modify your designs by pushing and pulling faces, and by using various transform tools and Boolean operations. ![](Images/GUID-3E873180-70F5-4CBB-8293-D935A709EA52-low.png)

@@ -1,7 +1,5 @@
 # Modify: Cover, Sweep, Loft
 
-----
-
 Enclose open edges, make geometry changes along a path of edges, and connect multiple profiles or edges.
  
 

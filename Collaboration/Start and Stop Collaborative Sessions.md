@@ -1,7 +1,5 @@
 # Start and Stop Collaborative Sessions
 
-----
-
 Invite other people to work on the same design project.
 
 Share your work with others.

@@ -1,7 +1,5 @@
 # Set a Location
 
-----
-
 Establish a geographic location for your sketch.
 
 ## Identify Your Location

@@ -1,7 +1,5 @@
 # Following a Session Camera
 
-----
-
 View the work from another collaborator's point of view.
  
 

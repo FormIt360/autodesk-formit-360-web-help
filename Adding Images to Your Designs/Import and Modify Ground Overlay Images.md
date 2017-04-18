@@ -1,7 +1,5 @@
 # Import and Modify Ground Overlay Images
 
-----
-
 Acquire images for your design canvas and alter them if desired.
 
 ## Importing Ground Overlay Images

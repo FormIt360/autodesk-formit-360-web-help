@@ -1,7 +1,5 @@
 # Adding Images to Your Designs
 
-----
-
 Use ground overlays and other images to add clarity and realism to a design.
  
 

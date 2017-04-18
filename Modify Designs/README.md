@@ -1,7 +1,5 @@
 # Modify Designs
 
-----
-
 Make designs more complex by using a variety of geometry modification tools.
  
 

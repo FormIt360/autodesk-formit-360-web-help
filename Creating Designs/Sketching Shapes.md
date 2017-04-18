@@ -1,7 +1,5 @@
 # Sketching Shapes
 
-----
-
 Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
 
 After selecting a drawing tool, you can hover anywhere on the canvas to use snaps and inference points before you place your first point.

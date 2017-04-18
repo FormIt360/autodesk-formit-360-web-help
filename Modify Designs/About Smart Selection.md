@@ -1,7 +1,5 @@
 # About Smart Selection
 
-----
-
 The TAB key provides a way to make selecting similar objects easier.
  
 

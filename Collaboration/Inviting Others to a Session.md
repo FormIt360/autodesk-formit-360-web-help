@@ -1,7 +1,5 @@
 # Inviting Others to a Session
 
-----
-
 Create a collaboration team.
  
 

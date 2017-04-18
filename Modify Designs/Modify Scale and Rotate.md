@@ -1,7 +1,5 @@
 # Modify: Scale and Rotate
 
-----
-
 Adjust the size and orientation of objects.
 
 1. ![](Images/GUID-AB446385-86F1-45AC-8261-8DB397A4C45B-low.png)To scale edges, faces or objects, first select, right-click to access the context menu, then choose the scale icon. Use the scroll wheel on your mouse to scale the geometry up or down.

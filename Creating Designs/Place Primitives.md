@@ -1,7 +1,5 @@
 # Place Primitives
 
-----
-
 Use pre-defined shapes as design building blocks.
 
 ## Place a Primitive
