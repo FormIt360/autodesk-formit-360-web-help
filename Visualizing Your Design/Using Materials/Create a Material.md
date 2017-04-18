@@ -1,7 +1,5 @@
 # Create a Material
 
----
-
 Use the Material Editor to create new materials to use in your scene.
 
 You can create your own materials based on custom bitmap files.

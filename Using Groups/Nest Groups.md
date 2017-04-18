@@ -1,7 +1,5 @@
 # Nest Groups
 
-----
-
 Cluster like elements within a design.
 
 You can treat groups as container elements, within which other smaller groups live. These nested groups can be used to create larger group structures

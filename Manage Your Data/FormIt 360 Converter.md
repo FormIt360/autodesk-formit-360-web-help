@@ -1,7 +1,5 @@
 # FormIt Converter
 
----
-
 Convert files from other applications to use within FormIt
 
 The FormIt Converter is a Revit add-in that can convert files from other applications, such as SketchUp and Revit, to use within FormIt. It can be downloaded directly from the [FormIt website](http://formit360.autodesk.com/blog/formit-converter/).

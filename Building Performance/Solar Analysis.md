@@ -1,7 +1,5 @@
 # Solar Analysis
 
----
-
 Visualize the amount of solar radiation that your model receives.
 
 Autodesk FormIt Pro Only

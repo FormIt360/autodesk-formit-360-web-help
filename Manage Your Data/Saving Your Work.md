@@ -1,7 +1,5 @@
 # Saving Your Work
 
-----
-
 Preserve your designs in multiple formats.
  
 * All your sketches can be saved and accessed from either you local drive or on http://360.autodesk.com . 

@@ -1,7 +1,5 @@
 # Scenes
 
-----
-
 Use the scenes to create and navigate back to saved view points.
 
 ## Create and Modify Scenes

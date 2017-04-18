@@ -1,7 +1,5 @@
 # Link a Content Library
 
-----
-
 Access previously stored projects and site files.
  
 1. Click the Content Library icon in the properties panel to the right side of the canvas. 

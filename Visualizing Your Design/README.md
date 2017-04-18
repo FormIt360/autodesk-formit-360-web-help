@@ -1,7 +1,5 @@
 # Visualizing Your Design
 
-----
-
 Use materials, layers and scenes to visualize your design
  
 

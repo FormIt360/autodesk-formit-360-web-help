@@ -1,7 +1,5 @@
 # Layers
 
-----
-
 Use the layers to control the visibility of individual objects.
 
 ## Create and Modify Layers

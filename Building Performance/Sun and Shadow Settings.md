@@ -1,7 +1,5 @@
 # Sun and Shadow Settings
 
-----
-
 Control the angle of the shadows at your locations by setting date and time.
 
 * You can control the sun path and shadows by clicking Shadows and setting the date and time for each sketch. 

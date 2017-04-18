@@ -1,7 +1,5 @@
 # Scale a Group
 
-----
-
 Scale a Group instance while maintaining the relationship to other instances
  
 

@@ -1,7 +1,5 @@
 # Make Group Unique
 
-----
-
 Copy a set of objects and then disconnect them from the original Group definition.
 
 1. Click the Make Unique icon ![](Images/GUID-25993420-36FC-4101-9D25-A7FE4D2EC514-low.png)on the toolbar

@@ -1,7 +1,5 @@
 # Edit Group
 
-----
-
 Update or make changes to an existing group.
 
 1. Click the Edit Groups icon on the toolbar. ![](Images/GUID-69A0D94C-B465-4B27-A517-5D0AF235F103-low.png)

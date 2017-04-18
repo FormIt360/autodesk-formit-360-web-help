@@ -1,7 +1,5 @@
 # Apply Levels
 
-----
-
 Like the Revit software, you can use level values to define a vertical height or story within a building sketch.
 
 See About Levels to understand levels.

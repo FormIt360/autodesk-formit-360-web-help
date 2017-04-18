@@ -1,7 +1,5 @@
 # Whole Building Energy Analysis
 
----
-
 Evaluate factors that affect building performance, such a wall insulation and HVAC efficiency.
 
 Autodesk FormIt Pro Only

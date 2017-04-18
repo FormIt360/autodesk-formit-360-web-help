@@ -1,7 +1,5 @@
 # Using Materials
 
-----
-
 Enrich and enhance designs using Materials to add detail.
  
 

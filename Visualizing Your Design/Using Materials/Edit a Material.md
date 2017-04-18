@@ -1,7 +1,5 @@
 # Edit a Material
 
-----
-
 Use the Material Editor to make materials appear exactly as you want.
 
 The texture, color, and other properties of Materials can be modified in the Material Editor.

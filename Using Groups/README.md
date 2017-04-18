@@ -1,7 +1,5 @@
 # Using Groups
 
-----
-
 Bundle together one or more objects into clusters that you can easily manipulate.
  
 

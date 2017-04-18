@@ -1,7 +1,5 @@
 # Apply Levels and Materials to a Group
 
-----
-
 A way to affect many objects at once.
  
 

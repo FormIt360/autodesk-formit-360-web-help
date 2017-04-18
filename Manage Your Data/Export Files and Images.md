@@ -1,7 +1,5 @@
 # Export Files and Images
 
----
-
 Save files to your A360 drive or to local storage
 
 1. Click the Export icon to open the Export menu.

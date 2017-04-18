@@ -1,7 +1,5 @@
 # Group and Ungroup Objects
 
----
-
 Place geometry into clusters to allow easier manipulation.
 
 #### Group Objects

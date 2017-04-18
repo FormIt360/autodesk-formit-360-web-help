@@ -1,7 +1,5 @@
 # Modify: Extrude, Cut/Offset Faces
 
-----
-
 Push or pull a face, or imprint new shapes on existing ones, or change create new edges offset from the original ones.
 
 1. ![](Images/GUID-759599CA-0885-4D40-A9FE-BB1E1AD1640A-low.png) To push and pull a face, select a face with a single click, then click and drag. The face will move back and forth, you can now move your mouse to snap and inference on other model elements. Click again to finish moving the face. Hold down the CTRL key to retain the original edges.

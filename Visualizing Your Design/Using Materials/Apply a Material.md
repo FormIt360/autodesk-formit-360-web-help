@@ -1,7 +1,5 @@
 # Apply a Material
 
-----
-
 Use the Material Editor to place a material on an object or a selected object face.
 
 Materials can be applied to faces or entire objects.
