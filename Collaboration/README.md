@@ -1,7 +1,8 @@
 # Collaboration
 
 Work simultaneously with others on the same sketch, or share your work later.  
-Note: Collaboration works only after you activate FormIt Pro. Clicking on the Collaboration icon will prompt you to log in with an [http://360.autodesk.com](http://360.autodesk.com) account entitled for FormIt Pro.
+
+**Note:** Collaboration works only after you activate FormIt Pro. Clicking on the Collaboration icon will prompt you to log in with an [http://360.autodesk.com](http://360.autodesk.com) account entitled for FormIt Pro.
 
 * You can start a Collaboration session and let others see your design and see any edits you make.
 
