@@ -1,8 +1,4 @@
-# Edit, Reload, or Remove a Satellite Image
-
-Make changes to your location images.
-
-## Working with Satellite Images
+# Working with Satellite Images
 
 1. To remove or edit a satellite image:
 2. Double click to select the image and then press Delete; or,

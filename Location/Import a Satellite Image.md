@@ -6,7 +6,7 @@
 4. Click Import Satellite Image to add the aerial photo to your sketch.
 5. Use the dialog that appears to crop the satellite image to show the relevant context for your sketch.
 6. Click 'Import Satellite Imager'
-![](Images/GUID-E5BA7A6F-D280-4FFE-8561-9BEDCCD38759-low.png)
+![](Images/GUID-72455568-7551-4B79-90D7-19A6554419EA-low.png)
 
 ## Weather Stations
 1. Click any of the nearby Weather Stations to review the local historic climate data.

@@ -1,10 +1,6 @@
 # Keyboard Shortcuts
 
----
-
-Speed up your design work with keyboard shortcuts.
-
-Use these shortcuts to streamline you interaction with the FormIt 360 software.
+Use these shortcuts to streamline your interaction with FormIt.
 
 |  |  |
 | --- | --- |
