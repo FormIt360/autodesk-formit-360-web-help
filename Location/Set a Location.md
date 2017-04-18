@@ -6,5 +6,5 @@ You can also move the red pin to another location on the map. When ready, click 
 
 ![](Images/GUID-72455568-7551-4B79-90D7-19A6554419EA-low.png)
 
-This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen [import the satellite image](../../Location/Import a Satellite Image.md).
+This action will return you to the drawing area and set the location of the project without importing the satellite image. You can always return later to the Location screen [import the satellite image](../Location/Import a Satellite Image.md).
     
