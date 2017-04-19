@@ -18,7 +18,7 @@
   * [Import a Satellite Image](Location/Import a Satellite Image.md)
   * [Edit, Reload, or Remove a Satellite Image](Location/Edit, Reload, or Remove a Satellite Image.md)
 * [Adding Images to Your Designs](Adding Images to Your Designs/README.md)
-  * [Import and Modify Ground Overlay Images](Adding Images to Your Designs/Import and Modify Ground Overlay Images.md)
+  * [Import and Modify Images](Adding Images to Your Designs/Import and Modify Ground Overlay Images.md)
 * [Application and Sketch Settings](Application and Sketch Settings/README.md)
   * [Sketch Settings](Application and Sketch Settings/Sketch Settings.md)
   * [Application Settings](Application and Sketch Settings/Application Settings.md)
@@ -68,6 +68,4 @@
     * [Place Content](Manage Your Data/Content Libraries/Place Content.md)
   * [About Revit Files](Manage Your Data/About Revit Files.md)
   * [FormIt Converter](Manage Your Data/FormIt 360 Converter.md)
-
-
 

@@ -1,8 +1,4 @@
-# Import and Modify Ground Overlay Images
-
-Acquire images for your design canvas and alter them if desired.
-
-## Importing Ground Overlay Images
+# Importing Images
 
 1. To import an image, select the Import button from the toolbar.
 
@@ -14,10 +10,12 @@ Acquire images for your design canvas and alter them if desired.
     ![](Images/GUID-71B095CB-F655-4B8D-8488-A474084F095F-low.png)
 3. Click OK to add the image.
 
-## Modify Ground Overlay Images
+## Modifying Images
 
-1. Use the palette on the right-side of the screen to modify image properties.
-2. From the palette, you can edit the image's name and transparency.
-3. Drag and Drop using the Vertical Order panel to organize the placement (order) of all the ground overlay images, including any imported satellite imagery. 
+1. Double-click the image to select it
+2. Navigate to the Properties palette
+3. From here, you can adjust the name, Layer, transparency setting, import more images, and adjust the vertical order by dragging the tiles representing other images in the sketch.
     
-    ![](Images/GUID-B1CE5D3F-BA12-477D-842D-6E74ADE9FD8C-low.png)
+![](Images/GUID-911B5932-8342-4CCF-BBAF-B761959F482B-low.jpg)
+
+
