@@ -4,7 +4,7 @@ Visual Styles provides a one-stop shop for tweaking the display of model surface
 
 ##Surfaces
 
-
+![](Images/vis_styles_surfaces.png)
 
 | | |
 | ---- | ---- |
