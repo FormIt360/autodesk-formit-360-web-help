@@ -1,6 +1,10 @@
 # Visual Styles
 
-Visual styles provides a one-stop shop for tweaking the display of model surfaces, edges, and its environment. Visual Styles also provides options for toggling helpful diagnostic options.
+Visual Styles provides a one-stop shop for tweaking the display of model surfaces, edges, and its environment. Visual Styles also provides options for toggling helpful diagnostic options.
+
+##Surfaces
+
+
 
 | | |
 | ---- | ---- |
