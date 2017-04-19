@@ -1,4 +1,4 @@
-# Application and Sketch Settings
+# Application Settings
 
 Modify application-wide settings to change how the app appears and behaves.
 
