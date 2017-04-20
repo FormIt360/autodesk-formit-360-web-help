@@ -40,10 +40,11 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 ## Sketching Splines
 
 ![](Images/GUID-70BC13C6-FED4-4BC2-BBFB-B4D0AE66A7FC-low.png) 
-1. Click your mouse once you are ready to place the first endpoint of the spline.
-2. Follow the same steps of hover, snap / inference, click - to draw the next spline point.
-NoteThe spline curve appears automatically.
-1. ![](Images/GUID-7F769709-6434-40BF-BB18-2C7C73E343C6-low.png)Click the original spline end point to close the loop of sketch lines and create a plane.
+1. Click once in the drawing area to place the first Spline point.
+2. Continue adding points, and the Spline will automatically draw.
+3. Optionally close the Spline by adding a point on the starting point.
+
+![](Images/GUID-7F769709-6434-40BF-BB18-2C7C73E343C6-low.png)
 
 ## Sketching Rectangles
 
