@@ -48,7 +48,7 @@
     * [Apply a Material](Visualizing Your Design/Using Materials/Apply a Material.md)
   * [Layers](Visualizing Your Design/Layers.md)
   * [Scenes](Visualizing Your Design/Scenes.md)
-  * [Visual Styles](Visualizing Your Design/visual-styles.md)
+  * [Visual Styles](Visualizing Your Design/Visual Styles.md)
 * [Levels and Space Usage](Levels and Space Usage/README.md)
   * [Apply Levels](Levels and Space Usage/Apply Levels.md)
 * [Using Groups](Using Groups/README.md)
