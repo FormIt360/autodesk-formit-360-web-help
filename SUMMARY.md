@@ -18,7 +18,6 @@
   * [Import a Satellite Image](Location/Import a Satellite Image.md)
   * [Edit, Reload, or Remove a Satellite Image](Location/Edit, Reload, or Remove a Satellite Image.md)
 * [Importing Images and Models](Adding Images to Your Designs/README.md)
-  * [Import and Modify Images](Adding Images to Your Designs/Import and Modify Ground Overlay Images.md)
 * [Creating Designs](Creating Designs/README.md)
   * [Sketching Shapes](Creating Designs/Sketching Shapes.md)
   * [Place Primitives](Creating Designs/Place Primitives.md)
