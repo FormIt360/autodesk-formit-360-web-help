@@ -20,7 +20,7 @@ There are 5 types of 3D primitives that you can place: Cubes, Domes, Cylinders, 
 
 #### Placing Primitives
 
-You can place primitives by clicking on a tool from the Geometry Creation toolbar. Then, click in the canvas to place the geometry.
+You can place primitives by clicking on a shape from the Geometry toolbar. Then, click in the canvas to place the geometry.
 
 ![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)
 
