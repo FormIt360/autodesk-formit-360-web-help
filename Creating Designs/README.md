@@ -10,7 +10,7 @@ There are 5 types of tools that you can sketch with: Lines, Arcs, Splines, Recta
 
 #### Sketching Shapes
 
-* Creation tools are located in the action bar. You create shapes by clicking on a tool from the Sketch tool set. Then, click in the view to define the shape.
+Creation tools are located in the action bar. You create shapes by clicking on a tool from the Sketch tool set. Then, click in the canvas to begin drawing the shape.
 
 ![](Images/GUID-1013F3AF-1F01-47D6-91FC-F9FAF60802EA-low.png)
 
@@ -20,9 +20,11 @@ There are 5 types of 3D primitives that you can place: Cubes, Domes, Cylinders, 
 
 #### Placing Primitives
 
-* You can place primitives by clicking on a tool from the Geometry Creation toolbar. Then, click in the canvas to place the geometry.![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)
+You can place primitives by clicking on a tool from the Geometry Creation toolbar. Then, click in the canvas to place the geometry.
 
-To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include: Select, Delete, Move, Scale, Rotate, Extrude, Cut Face, Offset Face, Tilt, Copy/Paste, Array, Cover, Sweep, Loft, and Boolean Cut and Join. Use the topics in the following list to learn more about these operations.
+![](Images/GUID-64BB4908-639E-4A56-BA99-7241421CF82F-low.png)
+
+To create more complex designs after sketching a shape or placing a primitive, you can use several contextual tools to modify your geometry. These operations include: Select, Delete, Move, Scale, Rotate, Extrude, Offset Face, Tilt, Copy/Paste, Array, Cover, Sweep, Loft, Offset Solid, Shell Solid, Fillet, and Boolean Cut and Join. Use the topics in the following list to learn more about these operations.
 
 #### See Also
 
