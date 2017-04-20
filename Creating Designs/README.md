@@ -1,8 +1,8 @@
 # Creating Designs
-
-Sketch or place geometric shapes onto grid backgrounds, satellite images, or overlays.
  
-* Create conceptual models using 2D and 3D geometry creation tools. Start off by sketching 2D shapes or placing 3D primitives. Then, you can modify your designs by pushing and pulling faces, and by using various transform tools and Boolean operations. ![](Images/GUID-3E873180-70F5-4CBB-8293-D935A709EA52-low.png)
+Use FormIt to create conceptual models using 2D and 3D geometry creation tools. Start off by sketching 2D shapes or placing 3D primitives. You can then modify your designs by extruding faces and by using various transform tools and boolean operations. 
+
+![](Images/GUID-3E873180-70F5-4CBB-8293-D935A709EA52-low.png)
 
 There are two main ways to create geometry: Sketching shapes, and placing primitives. You can also import geometry.
 
@@ -10,7 +10,9 @@ There are 5 types of tools that you can sketch with: Lines, Arcs, Splines, Recta
 
 #### Sketching Shapes
 
-* Creation tools are located in the action bar. You create shapes by clicking on a tool from the Sketch tool set. Then, click in the view to define the shape.![](Images/GUID-1013F3AF-1F01-47D6-91FC-F9FAF60802EA-low.png)
+* Creation tools are located in the action bar. You create shapes by clicking on a tool from the Sketch tool set. Then, click in the view to define the shape.
+
+![](Images/GUID-1013F3AF-1F01-47D6-91FC-F9FAF60802EA-low.png)
 
 There are 5 types of 3D primitives that you can place: Cubes, Domes, Cylinders, Prisms, and Pyramids.
 

@@ -23,7 +23,6 @@
   * [Import 3D Models and Images](Creating Designs/Import 3D Models and Images.md)
   * [Sketching Shapes](Creating Designs/Sketching Shapes.md)
   * [Place Primitives](Creating Designs/Place Primitives.md)
-* [Application Settings](Application and Sketch Settings/README.md)
 * [Modify Designs](Modify Designs/README.md)
   * [World Axes](Modify Designs/World Axes.md)
   * [Work Planes](Modify Designs/Work Planes.md)
@@ -67,4 +66,5 @@
     * [Place Content](Manage Your Data/Content Libraries/Place Content.md)
   * [About Revit Files](Manage Your Data/About Revit Files.md)
   * [FormIt Converter](Manage Your Data/FormIt 360 Converter.md)
+* [Application Settings](Application and Sketch Settings/README.md)
 
