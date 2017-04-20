@@ -28,13 +28,13 @@ To create more complex designs after sketching a shape or placing a primitive, y
 
 #### See Also
 
-* [Modify: Delete/Edit/Move ](../../Modify Designs/Modify Delete, Edit, Move.md)
-* [Modify: Extrude/Cut/Offset Face ](../../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
-* [Modify: Select Edge/Face ](../../Modify Designs/Modify Select Edge-Face or Object.md)
-* [Modify: Scale/Rotate ](../../Modify Designs/Modify Scale and Rotate.md)
-* [Modify: Tilt/Array/Copy/Paste ](../../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
-* [Modify: Boolean Operations ](../../Modify Designs/Modify Boolean Operations.md)
-* [Modify: Cover/Sweep/Loft ](../../Modify Designs/Modify Cover, Sweep, Loft.md)
+* [Modify: Delete/Edit/Move ](../Modify Designs/Modify Delete, Edit, Move.md)
+* [Modify: Extrude/Cut/Offset Face ](../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
+* [Modify: Select Edge/Face ](../Modify Designs/Modify Select Edge-Face or Object.md)
+* [Modify: Scale/Rotate ](../Modify Designs/Modify Scale and Rotate.md)
+* [Modify: Tilt/Array/Copy/Paste ](../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
+* [Modify: Boolean Operations ](../Modify Designs/Modify Boolean Operations.md)
+* [Modify: Cover/Sweep/Loft ](../Modify Designs/Modify Cover, Sweep, Loft.md)
 
   
 
