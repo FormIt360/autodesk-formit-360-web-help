@@ -8,11 +8,17 @@ After selecting a drawing tool, you can hover anywhere on the canvas and use sna
 
 ![](Images/GUID-27983F96-48B2-4FD2-8667-EDC3435AAA66-low.png) 
 1. Click your mouse once in the drawing area to place the first endpoint of the line.
-2. Use hover, snap / inference, click - to place the second endpoint of the line.
-3. ![](Images/GUID-AB3A710E-3BF8-4163-AF46-2B02ED9A3277-low.png)To draw the next line segment, you will need to click to create another endpoint.
+2. Use snapping and inference lines to locate and place the second endpoint of the line.
+3. To draw the next line segment, you will need to click to create another endpoint.
 
-Once you start drawing a line on an axis, pressing the shift key locks the line to that axis so that you can extend it without worrying about leaving the axis.
-NoteUse the Tab key to open the Set Length dialog that allows you to type in a length value. When Snap to Grid is turned off, the values in the Set Length box appear in whole numbers; with Snap to Grid on, the numbers appear in fractions of a foot or meter.
+
+![](Images/GUID-AB3A710E-3BF8-4163-AF46-2B02ED9A3277-low.png)
+
+
+Once you start drawing a line on an axis, pressing Shift locks the line to that axis so that you can extend it without worrying about leaving the axis.
+
+Use the Tab key to open the Set Length dialog that allows you to type in a length value. When Snap to Grid is turned off, the values in the Set Length box appear in whole numbers; with Snap to Grid on, the numbers appear in fractions of a foot or meter. Any time a temporary dimension string is on the screen, Tab will allow you to edit the most recently entered dimension.
+
 ## Using Arcs
 
 ![](Images/GUID-9DB80E7B-E0BE-4EC1-B035-F01592BCE7F0-low.png) 
