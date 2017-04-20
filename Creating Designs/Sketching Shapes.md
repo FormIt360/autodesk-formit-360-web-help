@@ -32,8 +32,8 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 
 ![](Images/GUID-9DB80E7B-E0BE-4EC1-B035-F01592BCE7F0-low.png) 
 1. Click once in the drawing area to place the first endpoint of the arc.
-2. Use snapping and/or inference lines to locate and place the second endpoint of the arc.
-3. Click once more to set the bulge dimension of the arc.
+2. Use snapping and/or inference lines to locate and place the centerpoint of the arc.
+3. Use the radial dimension to set the end point of the arc.
 
 ![](Images/arc-center-radius.png)
 
