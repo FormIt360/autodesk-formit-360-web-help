@@ -6,9 +6,15 @@ Visual Styles provides a one-stop shop for tweaking the display of model surface
 
 ![](Images/vis_styles_surfaces.png)
 
+- **Shadows:** Display shadows based on sketch location and selected time of day.
+- **Ambient Shadows:** Display soft shadows for an added touch of realism.
+- ** Monotone Surfaces:** Display all surfaces with a white material, except transparent surfaces which become grey. Great for shadow studies.
+
 #Edges
 
 ![](Images/vis_styles_edges.png)
+
+- Edges: Display edges not of any type below in the model.
 
 #Environment
 
