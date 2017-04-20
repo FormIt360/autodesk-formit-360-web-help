@@ -1,4 +1,4 @@
-# Importing Images and Models
+# Importing Models and Images
 
 FormIt supports importing 3D geometry and raster image files.
 
