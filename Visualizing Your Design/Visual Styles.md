@@ -1,6 +1,6 @@
 # Visual Styles
 
-Visual Styles provides a one-stop shop for tweaking the display of model surfaces, edges, and its environment. Visual Styles also provides options for toggling helpful diagnostic options.
+Visual Styles provides a one-stop shop for tweaking the display of a model's surfaces, edges, and its environment. Visual Styles also provides options for toggling helpful diagnostic options.
 
 ##Surfaces
 
@@ -10,7 +10,7 @@ Visual Styles provides a one-stop shop for tweaking the display of model surface
 - **Ambient Shadows:** Display soft shadows for an added touch of realism.
 - ** Monotone Surfaces:** Display all surfaces with a white material, except transparent surfaces which become grey. Great for shadow studies.
 
-#Edges
+##Edges
 
 ![](Images/vis_styles_edges.png)
 
@@ -23,7 +23,7 @@ Visual Styles provides a one-stop shop for tweaking the display of model surface
 - **Silhouettes:** Display thicker lines around perimeters of objects to emphasize form.
 - **Silhouette Contrast:** Adjust the relative visibility of silhouette edges against model surfaces.
 
-#Environment
+##Environment
 
 ![](Images/vis_styles_environment.png)
 
@@ -33,7 +33,7 @@ Visual Styles provides a one-stop shop for tweaking the display of model surface
 - **North Arrow:** Display a helpful north arrow indicator in the bottom-left corner of the screen.
 - **Levels:** Display levels on objects that have Levels enabled in the Properties palette.
 
-#Diagnostics
+##Diagnostics
 
 ![](Images/vis_styles_diagnostics.png)
 
