@@ -20,7 +20,7 @@
 * [Adding Images to Your Designs](Adding Images to Your Designs/README.md)
   * [Import and Modify Images](Adding Images to Your Designs/Import and Modify Ground Overlay Images.md)
 * [Creating Designs](Creating Designs/README.md)
-  * [Import 3D Models and Images](Creating Designs/Import 3D Models and Images.md)
+  * [Import 3D Models](Creating Designs/Import 3D Models and Images.md)
   * [Sketching Shapes](Creating Designs/Sketching Shapes.md)
   * [Place Primitives](Creating Designs/Place Primitives.md)
 * [Modify Designs](Modify Designs/README.md)
