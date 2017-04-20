@@ -27,10 +27,18 @@ Visual Styles provides a one-stop shop for tweaking the display of model surface
 
 ![](Images/vis_styles_environment.png)
 
+- **Grid:** Display the grid on the ground.
+- **Ground Plane:** Display the colored opaque effect on the ground.
+- **Axes:** Display the XYZ axes indicators at the origin.
+- **North Arrow:** Display a helpful north arrow indicator in the bottom-left corner of the screen.
+- **Levels:** Display levels on objects that have Levels enabled in the Properties palette.
+
 #Diagnostics
 
 ![](Images/vis_styles_diagnostics.png)
 
-*Display edges*: Toggle this feature to turn off edges in your model. This option works well with Ambient shadows for presentations<br>* *Display silhouette outlines*: Forms will be emphasized by drawing a slightly wider line around the silhouette edges<br>* *Display wide lines*: Widest lines possible<br>* *Display sketchy lines*: Change the appearance of your sketch by toggling making lines to appear that they have been sketched by hand<br>* *Show hidden lines*: Display faint lines that are normally hidden by other faces<br>* *Display extended edges*: Display short extensions where lines intersect<br>* *Display grid*: Toggle the visibility of the grid<br>* *Display axes: *Toggle the visibility of the coordinate system axes<br>* *Display north arrow: *Toggle the visibility of the north arrow<br>* *Display levels*: Toggle the visibility of the levels<br><br>  |
-| ![](Images/GUID-5A845410-7137-4375-9B5F-1B8DEE15BD56-low.png)   |   <br>*Model Diagnostics*<br><br>* *Display Backfaces: *Faces that are abnormally facing outward will be displayed in a purple color<br>* *Display Watertight Issues*: Holes in faces and lines/edges not associated with an object will be displayed in a purple color<br>  |
+- **Identify Watertight Issues:** Highlight non-manifold edges in a red color to help clean up models for sending to other applications, and for identifying potential model fidelity issues.
+- **Identify Back Faces:** Highlight faces that are reversed to help clean up models for sending to other applications, and for identifying potential model fidelity issues.
+- **Show Group Bounding Boxes:** Draw bounding boxes for all Groups and nested Groups in the sketch.
+- **Show Default Color on back Faces:** Checking this overrides any faces that may have a back face material with the default FormIt color.
 
