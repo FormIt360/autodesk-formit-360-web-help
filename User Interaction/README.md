@@ -6,25 +6,15 @@
 
 #### Topics in this section
 
-* [Context Menu and Right-Side Palettes](../Context Menu and Right-Side Palettes.md)
+* [Context Menu and Right-Side Palettes](../Context Menu and Right-Side Palettes.md) - Locate the tools to create and place designs.
 
-  Locate the tools to create and place designs.
+* [User Interface Tools ](../User Interface Tools.md) - Reference for command interaction tools.
 
-* [User Interface Tools ](../User Interface Tools.md)
+* [Project Information Reference ](../Project Information Reference.md) - Name your design and keep track of its status.
 
-  Reference for command interaction tools.
+* [Navigation Tools](../Navigation Tools.md) - Use these movements to engage the user interface.
 
-* [Project Information Reference ](../Project Information Reference.md)
-
-  Name your design and keep track of its status.
-
-* [Navigation Tools](../Navigation Tools.md)
-
-  Use these movements to engage the user interface.
-
-* [Keyboard Shortcuts ](../Keyboard Shortcuts.md)
-
-  Speed up your design work with keyboard shortcuts.
+* [Keyboard Shortcuts ](../Keyboard Shortcuts.md) - Speed up your design work with keyboard shortcuts.
 
 
 
