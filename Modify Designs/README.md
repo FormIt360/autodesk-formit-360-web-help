@@ -9,9 +9,9 @@ After you select an object (solid, face, edge, point), you can manipulate object
 
 #### Topics in this section
 
-* [World Axes](../World Axes.md)
-* [Work Planes](../Work Planes.md)
-* [ Snaps and Inferences](../Snaps and Inferences.md)
+* [World Axes](../Modify Designs/World Axes.md)
+* [Work Planes](../Modify Designs/Work Planes.md)
+* [ Snaps and Inferences](../Modify Designs/Snaps and Inferences.md)
     
     Use these built-in capabilities to create more accurate designs.
 * [About Smart Selection](../About Smart Selection.md)
