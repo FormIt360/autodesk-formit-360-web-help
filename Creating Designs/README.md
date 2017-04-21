@@ -40,10 +40,7 @@ To create more complex designs after sketching a shape or placing a primitive, y
 
 #### Topics in this section
 
-* [Sketching Shapes](../Creating Designs/Sketching Shapes.md)
-    
-    Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
-* [Place Primitives](../Creating Designs/Place Primitives.md)
-    
-    Use pre-defined shapes as design building blocks.
+* [Sketching Shapes](../Creating Designs/Sketching Shapes.md) - Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
+
+* [Place Primitives](../Creating Designs/Place Primitives.md) - Use pre-defined shapes as design building blocks.
 
