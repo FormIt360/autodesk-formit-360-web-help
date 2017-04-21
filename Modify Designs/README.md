@@ -29,16 +29,16 @@ After you select an object (solid, face, edge, point), you can manipulate object
 * [Examine Object Properties](../Modify Designs/Examine Object Properties.md)
     
     View or change a building object's name or its volume/area and level values.
-* [Modify: Scale and Rotate](../Modify Scale and Rotate.md)
+* [Modify: Scale and Rotate](../Modify Designs/Modify Scale and Rotate.md)
     
     Adjust the size and orientation of objects.
-* [ Modify: Tilt, Array, Copy/Paste](../Modify Tilt, Array, Copy-Paste.md)
+* [ Modify: Tilt, Array, Copy/Paste](../Modify Designs/Modify Tilt, Array, Copy-Paste.md)
     
     Create more complex designs by making alterations to previously drawn shapes.
-* [Modify: Extrude, Cut/Offset Faces](../Modify Extrude, Cut-Offset Faces.md)
+* [Modify: Extrude, Cut/Offset Faces](../Modify Designs/Modify Extrude, Cut-Offset Faces.md)
     
-    Push or pull a face, or imprint new shapes on existing ones, or change create new edges offset from the original ones.
-* [Modify: Boolean Operations](../Modify Boolean Operations.md)
+    Push or pull a face, imprint new shapes on existing ones, or change create new edges offset from the original ones.
+* [Modify: Boolean Operations](../Modify Designs/Modify Boolean Operations.md)
     
     Use Join and Cut operations to alter objects.
 
