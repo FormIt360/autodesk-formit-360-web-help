@@ -8,7 +8,7 @@ When a blank sketch is opened in FormIt the World Axes are displayed as three re
 
 To rotate the grid, right click/tap on empty space in the scene and choose ![](Images/GUID-D035D02F-480D-44A2-AE80-4B4FBF3A6117-low.png)from the context menu. Drag on the red dot to move the origin and either blue dot to rotate the axes
 
-![](Images/GUID-35918BD8-0867-423B-A6E6-A4960F6D6DD8-low.gif)
+![](Images/GUID-35918BD8-0867-423B-A6E6-A4960F6D6DD8-low.png)
 
 To reset the coordinate system and grid back to the default setting, right click/tap on empty space in the scene and choose ![](Images/GUID-EB26F44B-70B2-404A-8A7C-57D094D888C3-low.png)
 
