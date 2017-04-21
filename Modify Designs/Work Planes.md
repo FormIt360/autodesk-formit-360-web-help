@@ -3,7 +3,7 @@
 
 When you change the world axes in the main sketch, or local axes inside a group, a work plane is associated with the X and Y axes. 
 
-A work plane is a virtual 2-dimensional surface used as the origin for sketching elements. This work plane will stretch out to infinity and provide a surface to sketch on without snapping to elements behind it.
+A work plane is a virtual 2-dimensional surface used as a base plane for sketching elements. This work plane stretches out to infinity and provides a surface to sketch on without snapping to elements behind/below it.
 
 ## Modifying Work Planes
 
