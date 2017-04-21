@@ -7,7 +7,7 @@ After selecting a drawing tool, you can hover anywhere on the canvas and use sna
 ## Sketching Lines
 
 ![](Images/GUID-27983F96-48B2-4FD2-8667-EDC3435AAA66-low.png) 
-1. Click once in the drawing area to place the first endpoint of the line.
+1. Click once in the canvas to place the first endpoint of the line.
 2. Use snapping and/or inference lines to locate and place the second endpoint of the line.
 3. To draw the next line segment, you will need to click to create another endpoint.
 
@@ -22,7 +22,7 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 ## Sketching 3-Point Arcs
 
 ![](Images/GUID-9DB80E7B-E0BE-4EC1-B035-F01592BCE7F0-low.png) 
-1. Click once in the drawing area to place the first endpoint of the arc.
+1. Click once in the canvas to place the first endpoint of the arc.
 2. Use snapping and/or inference lines to locate and place the second endpoint of the arc.
 3. Click once more to set the bulge dimension of the arc.
 
@@ -31,7 +31,7 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 ## Sketching Arcs by Center, Radius
 
 ![](Images/arc-center-radius-toolbar.png) 
-1. Click once in the drawing area to place the first endpoint of the arc.
+1. Click once in the canvas to place the first endpoint of the arc.
 2. Use snapping and/or inference lines to locate and place the centerpoint of the arc.
 3. Use the radial dimension to set the end point of the arc.
 
@@ -40,7 +40,7 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 ## Sketching Splines
 
 ![](Images/GUID-70BC13C6-FED4-4BC2-BBFB-B4D0AE66A7FC-low.png) 
-1. Click once in the drawing area to place the first Spline point.
+1. Click once in the canvas to place the first Spline point.
 2. Continue adding points, and the Spline will automatically draw.
 3. Optionally close the Spline by adding a point on the starting point.
 
@@ -49,7 +49,7 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 ## Sketching Rectangles
 
 ![](Images/GUID-8C3D33D8-5D89-4D52-9425-323604428765-low.png) 
-1. Click once in the drawing area to place the first corner of the rectangle.
+1. Click once in the canvas to place the first corner of the rectangle.
 2. Move in the desired direction for the first edge of the rectangle, and place the second point.
 3. Finally, follow the same steps as before to place the third point and final corner of the rectangle.
 
