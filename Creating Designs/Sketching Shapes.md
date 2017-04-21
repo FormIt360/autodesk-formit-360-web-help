@@ -59,5 +59,9 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 ## Sketching Circles
 
 ![](Images/GUID-1193F05F-06CC-4415-A8E8-809D5824D25D-low.png) 
-1. Click your mouse once you are ready to place the center point of the circle.
-2. ![](Images/GUID-E665F344-1E0F-41B0-8195-EC68951CAC69-low.png)Follow the same steps of hover, snap/inference, click - to define the radius of the circle.
+1. Click once in the canvas to place the circle centerpoint.
+2. Move the cursor away from the centerpoint to define the circle radius, and click to place the circle.
+
+![](Images/GUID-E665F344-1E0F-41B0-8195-EC68951CAC69-low.png)
+
+ 
