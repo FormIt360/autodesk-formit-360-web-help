@@ -14,6 +14,8 @@ You may change the work plane orientation in the Main Sketch or in a Group by ri
 ![](Images/GUID-35918BD8-0867-423B-A6E6-A4960F6D6DD8-low.png)
 
 
-Rotate the [world axes](../World Axes.md) to the plane of another object in the sketch. This will align the active work plane to correspond to this face. You can now sketch, place elements, and modify elements relative to the new XY plane, rather than the default ground plane. You can orbit behind or under the grid and work planes to snap and inference to elements behind it.
+Grab the dot at the end of the red axis, and align it to a surface of another object in the sketch. This will align the active work plane to correspond to this face. You can now sketch, place elements, and modify elements relative to the new XY plane, rather than the default ground plane. 
+
+You can orbit behind or under the grid and work planes to snap and inference to elements behind it.
 
 If you do not see the grid lines, you'll need to turn on the Grid in Visual Styles > Environment > Grid (or keyboard shortcut: DG)
