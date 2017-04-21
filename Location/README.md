@@ -10,13 +10,7 @@ To accurately analyze your designs, you should define the geographic location of
 
 #### Topics in this section
 
-* [Set a Location](../Location/Set a Location.md)
-    
-    Establish a geographic location for your sketch.
-* [Import a Satellite Image](../Location/Import a Satellite Image.md)
-    
-    Add detail and realism to your design.
-* [Edit, Reload, or Remove a Satellite Image](../Location/Edit, Reload, or Remove a Satellite Image.md)
-    
-    Make changes to your location images.
+* [Set a Location](../Location/Set a Location.md) - Establish a geographic location for your sketch.
+* [Import a Satellite Image](../Location/Import a Satellite Image.md) - Add detail and realism to your design.
+* [Edit, Reload, or Remove a Satellite Image](../Location/Edit, Reload, or Remove a Satellite Image.md) - Make changes to your location images.
 
