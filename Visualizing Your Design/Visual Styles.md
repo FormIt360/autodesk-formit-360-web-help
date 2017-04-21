@@ -12,7 +12,7 @@ Visual Styles provides a one-stop shop for tweaking the display of a model's sur
 
 ##Edges
 
-![](Images/vis_styles_edges.png)
+![](Images/vis-styles-edges.png)
 
 - **Edges:** Display edges on the model.
 - **Contrast:** Adjust the relative visibility of edges against model surfaces.
