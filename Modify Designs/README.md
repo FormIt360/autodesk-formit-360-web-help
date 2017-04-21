@@ -3,7 +3,7 @@
 Make designs more complex by using a variety of geometry modification tools.
  
 
-After you select an object or an edge or face component, you can manipulate objects using Extrude, Cut/Offset, Tilt, Scale, Rotate, Array, and Boolean operations like Union and Subtract.
+After you select an object (solid, face, edge, point), you can manipulate objects using a variety of operations including Move, Delete, Extrude, Offset, Tilt, Scale, Rotate, Array, and Boolean operations like Union and Subtract.
 
   
 
