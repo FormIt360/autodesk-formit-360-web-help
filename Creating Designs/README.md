@@ -40,9 +40,6 @@ To create more complex designs after sketching a shape or placing a primitive, y
 
 #### Topics in this section
 
-* [Import 3D Models and Images ](../Creating Designs/Import 3D Models and Images.md)
-    
-    Add overlays and images to your designs for a variety of purposes.
 * [Sketching Shapes](../Creating Designs/Sketching Shapes.md)
     
     Use Lines, Arcs, Splines, Rectangles, and Circles to create shapes that you can combine into building designs.
