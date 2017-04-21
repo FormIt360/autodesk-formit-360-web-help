@@ -51,7 +51,10 @@ Use the Tab key to open the Set Length dialog that allows you to type in a lengt
 ![](Images/GUID-8C3D33D8-5D89-4D52-9425-323604428765-low.png) 
 1. Click your mouse once you are ready to place the first corner of the rectangle.
 2. Follow the same steps of hover, snap/inference, click - to place the second corner of the rectangle.
-3. ![](Images/GUID-8D08B9BE-B846-4FBA-9CEC-9A8E653548C0-low.png)Finally, follow the same steps as before to place the third corner of the rectangle.
+3. Finally, follow the same steps as before to place the third corner of the rectangle.
+
+![](Images/GUID-8D08B9BE-B846-4FBA-9CEC-9A8E653548C0-low.png)
+
 
 ## Sketching Circles
 
