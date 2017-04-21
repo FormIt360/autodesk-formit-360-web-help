@@ -1,9 +1,8 @@
 # Place Primitives
 
-Use pre-defined shapes as design building blocks. Placing primitives provides a second way to create content.
+Use pre-defined shapes as design building blocks. 
 
 
-## Place a Primitive
 
 1.  Click one of the five shapes on the primitives palette.
 
