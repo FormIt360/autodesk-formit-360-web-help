@@ -1,13 +1,10 @@
 # Snaps and Inferences
 
-Use these built-in capabilities to create more accurate designs.
- 
-NoteSee[Keyboard Shortcuts](../../User Interaction/Keyboard Shortcuts.md) for information about how to speed up your use of the software's tools.
-* To make sketching and modeling easier, use snaps and inference points to accurately create, place, and edit geometry. You can use whatever axis you choose as the axis on which to draw or execute another action, such as extruding a surface. 
+To make sketching and modeling easier, use snaps and inference points to accurately create, place, and edit geometry.
     
-    ![](Images/GUID-10AC3DDC-0BB3-4C3A-9BA3-4DE37FE97ADF-low.png)
+![](Images/GUID-10AC3DDC-0BB3-4C3A-9BA3-4DE37FE97ADF-low.png)
 
-*Snapping*
+##Snapping
 
 There are several snaps that can aid you while you are sketching and modeling. Snapping to objects is automatically enabled, and you can snap to:
 
@@ -20,7 +17,7 @@ There are several snaps that can aid you while you are sketching and modeling. S
 
 To snap to the grid, you must enable the Snap to Grid toggle from the Settings menu.
 
-*Inference Points*
+##Inferencing
 
 Automatic selection of inference points is always enabled and will help you constrain the movement of geometry.
 
