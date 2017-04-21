@@ -24,4 +24,4 @@ This will align the active work plane (whether in a Group or in the Main Sketch)
 
 You can orbit behind or under the grid and work planes to snap and inference to elements behind it.
 
-If you do not see the grid lines, you'll need to turn on the Grid in Visual Styles > Environment > Grid (or keyboard shortcut: DG)
+If you do not see the grid lines, you'll need to turn on the Grid in [Visual Styles](../Visualizing Your Design/Visual Styles.md) > Environment > Grid (or keyboard shortcut: DG)
