@@ -14,19 +14,19 @@ After you select an object (solid, face, edge, point), you can manipulate object
 * [ Snaps and Inferences](../Modify Designs/Snaps and Inferences.md)
     
     Use these built-in capabilities to create more accurate designs.
-* [About Smart Selection](../About Smart Selection.md)
+* [About Smart Selection](../Modify Designs/About Smart Selection.md)
     
     The TAB key provides a way to make selecting similar objects easier.
-* [Modify: Select Edge/Face or Object](../Modify Select Edge-Face or Object.md)
+* [Modify: Select Edge/Face or Object](../Modify Designs/Modify Select Edge-Face or Object.md)
     
     Choosing an object or surface is the first step to making modifications.
-* [Modify: Delete, Edit, Move](../Modify Delete, Edit, Move.md)
+* [Modify: Delete, Edit, Move](../Modify Designs/Modify Delete, Edit, Move.md)
     
     Remove an object, change its location, or modify its properties.
-* [Modify: Cover, Sweep, Loft](../Modify Cover, Sweep, Loft.md)
+* [Modify: Cover, Sweep, Loft](../Modify Designs/Modify Cover, Sweep, Loft.md)
     
     Enclose open edges, make geometry changes along a path of edges, and connect multiple profiles or edges.
-* [Examine Object Properties](../Examine Object Properties.md)
+* [Examine Object Properties](../Modify Designs/Examine Object Properties.md)
     
     View or change a building object's name or its volume/area and level values.
 * [Modify: Scale and Rotate](../Modify Scale and Rotate.md)
