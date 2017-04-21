@@ -25,7 +25,7 @@ Visual Styles provides a one-stop shop for tweaking the display of a model's sur
 
 ##Environment
 
-![](Images/vis_styles_environment.png)
+![](Images/vis-styles-environment.png)
 
 - **Grid:** Display the grid on the ground.
 - **Ground Plane:** Display the colored opaque effect on the ground.
@@ -35,7 +35,7 @@ Visual Styles provides a one-stop shop for tweaking the display of a model's sur
 
 ##Diagnostics
 
-![](Images/vis_styles_diagnostics.png)
+![](Images/vis-styles-diagnostics.png)
 
 - **Identify Watertight Issues:** Highlight non-manifold edges in a red color to help clean up models for sending to other applications, and for identifying potential model fidelity issues.
 - **Identify Back Faces:** Highlight faces that are reversed to help clean up models for sending to other applications, and for identifying potential model fidelity issues.
