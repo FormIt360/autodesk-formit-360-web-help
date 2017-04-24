@@ -1,9 +1,9 @@
 # About Smart Selection
 
-The TAB key provides a way to make selecting similar objects easier.
- 
+Use the Tab key to make selecting similar objects easier.
 
-Accelerate the pace of geometry placement and modification by using the TAB key.
+* Select identical Groups: Hover over a Group and hit Tab to select all instances of that Group in the current context.
+![](Images/GUID-CDD414C8-F9F3-4D1C-A724-0DDC695E25CF-low.png)
 
 * Select same sized faces: Hover over a face, hit the tab key, all the faces on the solid that are the same size highlight - single click to select them all. 
     
