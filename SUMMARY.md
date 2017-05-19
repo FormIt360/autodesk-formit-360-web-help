@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [What's New](https://formit.autodesk.com/page/release-notes/#release-notes-web)
 * [Welcome to Autodesk FormIt and FormIt Pro](Welcome to Autodesk FormIt 360 and FormIt 360 Pro.md)
 * [User Interaction](User Interaction/README.md)
   * [Context Menu and Right-Side Palettes](User Interaction/Context Menu and Right-Side Palettes.md)
@@ -62,13 +63,5 @@
   * [Inviting Others to a Session](Collaboration/Inviting Others to a Session.md)
   * [Following a Session Camera](Collaboration/Following a Session Camera.md)
   * [Chat with Collaborators](Collaboration/Chat with Collaborators.md)
-* [Manage Your Data](Manage Your Data/README.md)
-  * [Saving Your Work](Manage Your Data/Saving Your Work.md)
-  * [Export Files and Images](Manage Your Data/Export Files and Images.md)
-  * [Content Libraries](Manage Your Data/Content Libraries/README.md)
-    * [Link a Content Library](Manage Your Data/Content Libraries/Link a Content Library.md)
-    * [Place Content](Manage Your Data/Content Libraries/Place Content.md)
-  * [About Revit Files](Manage Your Data/About Revit Files.md)
-  * [FormIt Converter](Manage Your Data/FormIt 360 Converter.md)
-* [Application Settings](Application and Sketch Settings/README.md)
+* [What's New](https://formit.autodesk.com/page/release-notes/#release-notes-web)
 
