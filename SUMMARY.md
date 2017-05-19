@@ -63,5 +63,4 @@
   * [Inviting Others to a Session](Collaboration/Inviting Others to a Session.md)
   * [Following a Session Camera](Collaboration/Following a Session Camera.md)
   * [Chat with Collaborators](Collaboration/Chat with Collaborators.md)
-* [What's New](https://formit.autodesk.com/page/release-notes/#release-notes-web)
 
