@@ -59,8 +59,8 @@
   * [Group Axes and Work Planes](Using Groups/Group Axes and Work Planes.md)
 * [Collaboration](Collaboration/README.md)
   * [Start and Stop Collaborative Sessions](Collaboration/Start and Stop Collaborative Sessions.md)
-  * [Joining a Session](Collaboration/Joining a Session.md)
-  * [Inviting Others to a Session](Collaboration/Inviting Others to a Session.md)
-  * [Following a Session Camera](Collaboration/Following a Session Camera.md)
+  * [Join a Session](Collaboration/Joining a Session.md)
+  * [Invite Others to a Session](Collaboration/Inviting Others to a Session.md)
+  * [Follow a Session Camera](Collaboration/Following a Session Camera.md)
   * [Chat with Collaborators](Collaboration/Chat with Collaborators.md)
 
