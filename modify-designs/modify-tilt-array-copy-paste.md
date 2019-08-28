@@ -1,4 +1,4 @@
-# Modify: Tilt, Array, Copy\/Paste
+# Modify: Tilt, Array, Copy + Paste
 
 Create more complex designs by making alterations to previously drawn shapes.
 

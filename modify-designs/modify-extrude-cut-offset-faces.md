@@ -1,4 +1,4 @@
-# Modify: Extrude, Cut\/Offset Faces
+# Modify: Extrude, Cut, Offset Faces
 
 Push or pull a face, or imprint new shapes on existing ones, or change create new edges offset from the original ones.
 
