@@ -4,17 +4,17 @@
 
 Select any combination of Edges, Faces, Solids, Meshes, or Groups, and access Non-Uniform Scale using shortcut NU or from the Context Menu:
 
-![](../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7lt3luxablqbk4xfm-nu-scale_context-menu.PNG)
+![](../../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7lt3luxablqbk4xfm-nu-scale_context-menu.PNG)
 
 **Once active, you'll see a series of grips that can be used to non-uniformly scale the object in 1, 2, or 3 axes simultaneously.** 
 
 For clarity, only the grips facing the camera will be drawn. Orbit around the object if you need to adjust a grip on the other side.
 
-![](../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7m-ggpqic-suylrqr-nu-scale_grips-1.PNG)
+![](../../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7m-ggpqic-suylrqr-nu-scale_grips-1.PNG)
 
 Once you click a grip, you'll see a series of editable text boxes where you can adjust the scale by percentage or distance:
 
-![](../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7mfg91ktl6_mhl2yh-nu-scale_grips-2%20%281%29.PNG)
+![](../../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7mfg91ktl6_mhl2yh-nu-scale_grips-2%20%281%29.PNG)
 
 
 
@@ -31,7 +31,7 @@ Once you click a grip, you'll see a series of editable text boxes where you can 
 * Or click to temporarily set the grip location, then click one of the two dimension boxes to scale by distance.
 * Click off into space or hit ESC to finish the Non-Uniform Scale operation.
 
-![](../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7ozuctwsfacnqz1yv-nu-scale_grips-3.PNG)
+![](../../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7ozuctwsfacnqz1yv-nu-scale_grips-3.PNG)
 
 
 
@@ -41,6 +41,6 @@ Once you click a grip, you'll see a series of editable text boxes where you can 
 * Or click to temporarily set the grip location, then click one of the three dimension boxes to scale by distance.
 * Click off into space or hit ESC to finish the Non-Uniform Scale operation.
 
-![](../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7qgyzdmmdwn311vim-nu-scale_grips-4.PNG)
+![](../../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7qgyzdmmdwn311vim-nu-scale_grips-4.PNG)
 
 * 
