@@ -99,4 +99,4 @@ Once the objects have been converted to Meshes, you'll see a confirmation messag
 **Converting Grouped Meshes back to Objects:**
 
 * See the instructions above to use the Mesh + Unmesh All plugin to convert Groups and their nested Meshes back into Objects.
-* 
+
