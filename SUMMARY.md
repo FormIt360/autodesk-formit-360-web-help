@@ -16,6 +16,7 @@
   * [Sketching Shapes](creating-designs/sketching-shapes.md)
   * [Place Primitives](creating-designs/place-primitives.md)
 * [Modify Designs](modify-designs/README.md)
+  * [Orthographic Views](modify-designs/orthographic-views.md)
   * [World Axes](modify-designs/world-axes.md)
   * [Work Planes](modify-designs/work-planes.md)
   * [Snaps and Inferences](modify-designs/snaps-and-inferences.md)
