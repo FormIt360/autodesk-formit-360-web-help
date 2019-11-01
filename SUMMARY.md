@@ -29,6 +29,7 @@
   * [Modify: Tilt, Array, Copy + Paste](modify-designs/modify-tilt-array-copy-paste.md)
   * [Modify: Extrude, Cut, Offset Faces](modify-designs/modify-extrude-cut-offset-faces.md)
   * [Modify: Boolean Operations](modify-designs/modify-boolean-operations.md)
+* [Non-Uniform Scale](non-uniform-scale.md)
 * [Using Groups](using-groups/README.md)
   * [Group and Ungroup Objects](using-groups/group-ungroup-objects.md)
   * [Edit Group](using-groups/edit-group.md)
