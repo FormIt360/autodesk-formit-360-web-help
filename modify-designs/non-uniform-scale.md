@@ -43,4 +43,4 @@ Once you click a grip, you'll see a series of editable text boxes where you can 
 
 ![](../.gitbook/assets/assets-lud0saywlwiiwtsyxln-lz7k93h9run_tqiy0h-lz7qgyzdmmdwn311vim-nu-scale_grips-4.PNG)
 
-* * 
+* 

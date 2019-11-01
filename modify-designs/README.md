@@ -19,4 +19,5 @@ After you select an object \(solid, face, edge, point\), you can manipulate obje
 * [ Modify: Tilt, Array, Copy/Paste](https://github.com/formit3d/autodesk-formit-360-web-help/tree/b94092a615fd6c673021a2b2f7cc67dcd4ba45ce/Modify%20Designs/Modify%20Tilt,%20Array,%20Copy-Paste.md) - Create more complex designs by making alterations to existing shapes.
 * [Modify: Extrude, Cut/Offset Faces](https://github.com/formit3d/autodesk-formit-360-web-help/tree/b94092a615fd6c673021a2b2f7cc67dcd4ba45ce/Modify%20Designs/Modify%20Extrude,%20Cut-Offset%20Faces.md) - Extrude a face, imprint new shapes on existing ones, or offset edges on a surface.
 * [Modify: Boolean Operations](https://github.com/formit3d/autodesk-formit-360-web-help/tree/b94092a615fd6c673021a2b2f7cc67dcd4ba45ce/Modify%20Designs/Modify%20Boolean%20Operations.md) - Use Join and Cut operations to alter objects.
-
+* [Non-Uniform Scale](https://web.help.formit.autodesk.com/modify-designs/non-uniform-scale)
+* * 
