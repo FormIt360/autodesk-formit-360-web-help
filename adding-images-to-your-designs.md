@@ -11,7 +11,7 @@ FormIt supports importing 3D geometry and raster image files.
 
 1. To import an image, select the Import button from the menu.
 
-![](.gitbook/assets/guid-290fda11-690b-4231-88d9-f1e9cbcff816-low.png)
+![](.gitbook/assets/screen-shot-2019-11-14-at-4.58.02-pm.png)
 
 1. Select an image from your local file system or BIM 360 Docs.
 2. Edit the image if necessary.
