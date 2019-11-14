@@ -30,6 +30,7 @@
   * [Modify: Boolean Operations](modify-designs/modify-boolean-operations.md)
   * [Non-Uniform Scale](modify-designs/non-uniform-scale.md)
   * [Orthographic Views](modify-designs/orthographic-views.md)
+  * [Smart Selection](modify-designs/smart-selection.md)
 * [Using Groups](using-groups/README.md)
   * [Group and Ungroup Objects](using-groups/group-ungroup-objects.md)
   * [Edit Group](using-groups/edit-group.md)
