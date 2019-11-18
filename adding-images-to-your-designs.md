@@ -11,14 +11,14 @@ FormIt supports importing 3D geometry and raster image files.
 
 1. To import an image, select the Import button from the menu.
 
-![](.gitbook/assets/screen-shot-2019-11-14-at-4.58.02-pm.png)
+   ![](.gitbook/assets/import3dscreenshot.png)
 
-1. Select an image from your local file system
-2. Edit the image if necessary.
+2. Select an image from your local file system
+3. Edit the image if necessary.
 
    ![](.gitbook/assets/guid-71b095cb-f655-4b8d-8488-a474084f095f-low.png)
 
-3. Click OK to add the image.
+4. Click OK to add the image.
 
 ## Modifying Images
 
