@@ -31,6 +31,7 @@
   * [Non-Uniform Scale](modify-designs/non-uniform-scale.md)
   * [Orthographic Views](modify-designs/orthographic-views.md)
   * [Smart Selection](modify-designs/smart-selection.md)
+  * [Smart Selection](modify-designs/smart-selection-1.md)
   * [Standalone Vertices](modify-designs/standalone-vertices.md)
 * [Using Groups](using-groups/README.md)
   * [Group and Ungroup Objects](using-groups/group-ungroup-objects.md)
