@@ -54,6 +54,7 @@
   * [Layers](visualizing-your-design/layers.md)
   * [Scenes](visualizing-your-design/scenes.md)
   * [Visual Styles](visualizing-your-design/visual-styles.md)
+  * [Content Library](visualizing-your-design/content-library.md)
 * [Using Groups](using-groups-1/README.md)
   * [Group and Ungroup Objects](using-groups-1/group-ungroup-objects.md)
   * [Edit Group](using-groups-1/edit-group.md)
