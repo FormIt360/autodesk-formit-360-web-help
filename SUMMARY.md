@@ -7,6 +7,7 @@
   * [Context Menu and Right-Side Palettes](user-interaction/context-menu-and-right-side-palettes.md)
   * [User Interface](user-interaction/user-interface-tools.md)
   * [Navigation Tools](user-interaction/navigation-tools.md)
+  * [Orthographic Camera](user-interaction/orthographic-camera.md)
   * [Keyboard Shortcuts](user-interaction/keyboard-shortcuts.md)
 * [Location](location/README.md)
   * [Set a Location](location/set-a-location.md)
