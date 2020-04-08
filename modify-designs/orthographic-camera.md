@@ -4,3 +4,7 @@ The Orthographic Camera feature works the same in FormIt Web as it dies in FormI
 
 ![Orthographic and Perspective Camera buttons](../.gitbook/assets/screen-shot-2020-04-07-at-2.12.52-pm.png)
 
+If you navigate manually to a pre-set Orthographic View, like Top View, or Front View, the Orthographic Camera will snap to that position,  making it easier to access those pre-set views.
+
+![](../.gitbook/assets/orthoorienttoface.gif)
+
