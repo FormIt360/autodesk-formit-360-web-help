@@ -12,6 +12,7 @@
   * [Set a Location](location/set-a-location.md)
   * [Import a Satellite Image](location/import-a-satellite-image.md)
   * [Edit, Reload, or Remove a Satellite Image](location/edit-reload-or-remove-a-satellite-image.md)
+  * [Import Terrain](location/import-terrain.md)
 * [Creating Designs](creating-designs/README.md)
   * [Sketching Shapes](creating-designs/sketching-shapes.md)
   * [Place Primitives](creating-designs/place-primitives.md)
